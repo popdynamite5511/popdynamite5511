@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on random fun projects and stuff
 - 🌱 I’m currently learning Java
 - 🤔 I’m looking for help with Java
 - 😄 Pronouns: Amog/Us
