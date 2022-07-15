@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🌱 I’m currently learning Java
-- 🔭 I'm currently making Minecraft mods and hacked clients for bizzare versions of the game.
+- 🔭 I'm currently making the worst and most useless programs that will never realistically be used.
 - 😄 Pronouns: Amog/Us
 
 <!--
